@@ -1,5 +1,5 @@
 package testApp
 
 func Run(){
-  print("First commit!")
+  print("Second commit")
 }
